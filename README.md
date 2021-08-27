@@ -2,8 +2,6 @@
 
 ## Aplicación de consola para conocer el clima de alguna ciudad
 
-<br>
-
 ### IMPORTANTE: Esta aplicaciones utiliza dos APIs para su funcionamiento, por lo que se deberá contar con las correspondiente APIs key configuradas en un archivo .env para su facil acceso.
 
 - MAPBOX_KEY
